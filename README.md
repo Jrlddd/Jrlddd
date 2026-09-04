@@ -22,7 +22,7 @@ My main backend stack is **Laravel and Native PHP**, and I also work across the 
 
 ---
 
-## 🏛️ LGU & Treasury Systems
+## LGU & Treasury Systems
 
 A significant part of my development experience involves systems built for **Local Government Units (LGUs)**.
 
@@ -42,7 +42,7 @@ My experience isn't limited to writing code — I also work with the **deploymen
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -98,7 +98,9 @@ My experience isn't limited to writing code — I also work with the **deploymen
 
 ### Additional Experience
 
-- **Filament** — surface / working knowledge
+- **Filament** - surface / working knowledge
+- **Java** - surface / working knowledge
+- **C#** - surface / working knowledge
 - Third-party API integrations
 - Database-driven applications
 - Legacy PHP systems
@@ -108,7 +110,7 @@ My experience isn't limited to writing code — I also work with the **deploymen
 
 ---
 
-## 💻 What I Work On
+## What I Work On
 
 ```text
 Backend Development       Laravel / PHP
@@ -125,7 +127,7 @@ Deployment                 LGU / Production Systems
 
 ---
 
-## 🚀 Development Focus
+## Development Focus
 
 I enjoy working on applications where **backend logic, databases, APIs, and real-world business processes** come together.
 
@@ -133,7 +135,7 @@ My strongest area is **Laravel/PHP backend development**, but I can also work ac
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 - Laravel & PHP development
 - REST API development and integration
@@ -146,7 +148,7 @@ My strongest area is **Laravel/PHP backend development**, but I can also work ac
 
 ---
 
-## ⚡ In Short
+## In Short
 
 **Laravel + PHP backend developer who also works across the full stack, APIs, databases, deployment, and real-world LGU systems.**
 
