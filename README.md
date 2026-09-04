@@ -147,8 +147,10 @@ My strongest area is **Laravel/PHP backend development**, but I can also work ac
 - Modernizing and maintaining PHP applications
 
 ---
+## GitHub Stats
 
-## In Short
-
-**Laravel + PHP backend developer who also works across the full stack, APIs, databases, deployment, and real-world LGU systems.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jrlddd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlddd&layout=compact&theme=dark&langs_count=8" />
+</p>
 
