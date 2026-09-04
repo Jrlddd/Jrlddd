@@ -147,9 +147,5 @@ My strongest area is **Laravel/PHP backend development**, but I can also work ac
 - Modernizing and maintaining PHP applications
 
 ---
-## GitHub Stats
 
-<p align="center">
-  <img src="./profile/stats.svg" />
-</p>
 
