@@ -13,7 +13,7 @@ My main backend stack is **Laravel and Native PHP**, and I also work across the 
 - Primarily a **Laravel & PHP backend developer**
 - Experienced in building and deploying **LGU / government systems**
 - Have deployed and maintained multiple projects for **Local Government Units**
-- Experienced with **treasury-related systems**, including **TOMS**
+- Lead Developer for the Treasury Operations and Management System (TOMS), a treasury-focused application for LGU operations
 - Comfortable working with both **legacy and modern PHP applications**
 - Build and integrate **REST APIs**
 - Work with both backend and frontend development
